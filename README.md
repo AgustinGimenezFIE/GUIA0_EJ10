@@ -5,7 +5,7 @@ FACULTAD DE INGENIERIA DEL EJERCITO
 
 ESTRUCTURA DE DATOS Y ALGORITMOS
 
- EJERCICIO 10 : 10. Defina una función que convierte una cadena de caracteres, pasada por referencia, a
+ EJERCICIO 10 : Defina una función que convierte una cadena de caracteres, pasada por referencia, a
 mayúsculas.
 
 Notas:
